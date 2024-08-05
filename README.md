@@ -4,7 +4,8 @@
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Contact](#contact)
+3. [Usage](#usage)
+4. [Contact](#contact)
 
 ## Introduction
 
@@ -19,7 +20,10 @@ Memories is a CRUD operation project using Supabase where you can create and edi
 - Icons from React Icons
 - State management with React Query
 - Navigation with React Router
-  Deployed on Vercel
+
+## Usage
+
+Visit the app at [Memories App](https://memories-nine-xi.vercel.app/)
 
 ## Contact
 
