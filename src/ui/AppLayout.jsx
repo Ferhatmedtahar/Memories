@@ -21,7 +21,7 @@ function AppLayout() {
   console.log("Desing and code created by Ferhat Mohamed Tahar");
 
   return (
-    <div className="flex h-screen flex-col gap-4 overflow-auto bg-[url('./public/background1.jpg')] bg-cover bg-fixed bg-center bg-no-repeat object-cover p-8 scrollbar-thin scrollbar-webkit sm:flex-col">
+    <div className="flex h-screen flex-col gap-4 overflow-auto bg-[url('/background.jpg')] bg-cover bg-fixed bg-center bg-no-repeat object-cover p-8 scrollbar-thin scrollbar-webkit sm:flex-col">
       <Notification formRef={formRef} />
       <Header>Memories</Header>
       <main className="flex flex-col items-center justify-between gap-8 rounded-t-xl scrollbar-thin scrollbar-webkit">
